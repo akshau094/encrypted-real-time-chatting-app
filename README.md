@@ -195,15 +195,6 @@ npm run dev
 
 ---
 
-## 🌐 Deployment
-
-### 🚀 Deploy with Lovable
-
-The easiest way to deploy your project:
-
-1. Open [Lovable Project](https://lovable.dev/projects/1258634c-4c7b-4c81-bbe7-d90ea8142b1a)
-2. Click **Share → Publish**
-3. Your site is live in seconds! 🎉
 
 ### 🔗 Connect Custom Domain
 

@@ -178,7 +178,7 @@ npm run dev
 
 Perfect for rapid prototyping and visual development.
 
-1. Visit [Lovable Project](https://lovable.dev/projects/1258634c-4c7b-4c81-bbe7-d90ea8142b1a)
+1. get set go.....
 2. Start prompting with natural language
 3. Changes auto-commit to this repository
 4. See live preview instantly

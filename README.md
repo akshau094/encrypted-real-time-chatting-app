@@ -33,7 +33,7 @@
 
 This project showcases modern web development practices using cutting-edge technologies. Built with performance, scalability, and user experience in mind, it demonstrates the power of React, TypeScript, and modern tooling.
 
-**Live URL**: https://lovable.dev/projects/1258634c-4c7b-4c81-bbe7-d90ea8142b1a
+**Live URL**: https://encrypted-chatbox.netlify.app/
 
 ### 🌟 Why This Project?
 
